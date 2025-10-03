@@ -20,11 +20,11 @@ This project implements various pathfinding algorithms to visualize Tom searchin
    ```bash
    pip install numpy
    ```
-3. Run mani using
+3. Run using
     ```bash
     python main.py
     ```
-    
+
 ## Example: A* Algorithm
 ### Code Snippet
 The A* algorithm uses a heuristic (Manhattan distance) to efficiently find the shortest path from Tom to Jerry.
